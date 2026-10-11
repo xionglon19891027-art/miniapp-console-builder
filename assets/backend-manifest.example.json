@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "target": "backend",
+  "files": [
+    "Dockerfile",
+    ".dockerignore",
+    "backend/main.py",
+    "backend/requirements.txt",
+    "admin-console/index.html"
+  ],
+  "required": [
+    "Dockerfile",
+    "backend/main.py",
+    "admin-console/index.html"
+  ]
+}
