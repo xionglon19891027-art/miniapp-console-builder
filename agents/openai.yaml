@@ -1,0 +1,4 @@
+interface:
+  display_name: "小程序与中控台交付"
+  short_description: "融合爱学树和尚恩经验，按行业搭建微信小程序、中控后台与服务端，并完成测试交付"
+  default_prompt: "使用 $miniapp-console-builder，根据我的行业、角色和业务需求，搭建可验证的微信小程序、中控后台与服务端。"
